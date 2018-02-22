@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Using the environment created by our function we can create a copy of x 
 ## that we then use to create an inverse of x which is stored as a list that
 ## sets the parameters of the matrix
